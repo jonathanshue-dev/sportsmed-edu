@@ -17,7 +17,8 @@
    - 診斷用 log：`~/.openevidence-mcp/relay-8787.log`（只有 `delivered ...` 而無後續回應 = service worker 沒在讀）。
 2. **掃描文章**
    - 讀取 `src/content/topics/zh-tw/*.md` 的 frontmatter。
-   - 挑出 `last_verified` 距今超過 **90 天** 的主題（首次全跑）。
+   - 挑出 `last_verified` 距今超過 **90 天** 的主題。
+   - **哨兵規則（重要）**：若沒有任何主題到期，**仍挑 `last_verified` 最舊的一篇**執行查核。理由是讓 pipeline 每月至少被完整走過一次 — 否則 relay 或 extension 壞掉（例如瀏覽器回收 service worker）會靜默數個月才被發現。哨兵那次在 log 中標註「哨兵查核」。
 3. **逐題查核**（每題一次 `oe_ask`，fire-and-forget 後用 `oe_article_get` 取回）
    - 問題模板：
      `Since {last_verified}, have there been any new guidelines, major trials, or systematic reviews that change the recommended management of {topic}? Summarize only practice-changing findings; if nothing changed, say so explicitly.`
