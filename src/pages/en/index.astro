@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const topics = await getCollection('topics', (e) => e.id.startsWith('en/'));
+const base = import.meta.env.BASE_URL;
+
+const categories: { key: string; label: string }[] = [
+  { key: 'lower-limb', label: 'Lower Limb' },
+  { key: 'upper-limb', label: 'Upper Limb' },
+  { key: 'spine', label: 'Spine' },
+  { key: 'prevention', label: 'Injury Prevention' },
+];
+---
+
+<Base
+  title="Home"
+  description="Evidence-based sports medicine patient education"
+  lang="en"
+  altHref={`${base}/`}
+>
+  <h1>Sports Medicine Patient Education</h1>
+  <p class="desc">
+    Patient education on common sports injuries and pain conditions. Content is
+    written from current medical evidence and regularly re-verified through
+    OpenEvidence.
+  </p>
+
+  {categories.map((cat) => {
+    const items = topics.filter((t) => t.data.category === cat.key);
+    if (items.length === 0) return null;
+    return (
+      <>
+        <div class="category-label">{cat.label}</div>
+        <div class="topic-grid">
+          {items.map((t) => (
+            <a class="topic-card" href={`${base}/en/topics/${t.id.replace('en/', '')}/`}>
+              <strong>{t.data.title}</strong>
+              <p>{t.data.description}</p>
+            </a>
+          ))}
+        </div>
+      </>
+    );
+  })}
+</Base>

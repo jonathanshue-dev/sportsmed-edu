@@ -1,0 +1,44 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang: 'zh-tw' | 'en';
+  /** URL of the same page in the other language */
+  altHref: string;
+}
+
+const { title, description, lang, altHref } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const isZh = lang === 'zh-tw';
+const siteName = isZh ? '運動醫學衛教站' : 'Sports Medicine Patient Education';
+const disclaimer = isZh
+  ? '本網站內容僅供衛教參考，不能取代醫師診斷與治療。如有不適請諮詢醫療專業人員。內容依據最新醫學實證定期更新。'
+  : 'This website is for patient education only and does not replace professional medical diagnosis or treatment. Please consult a healthcare professional if you have symptoms. Content is regularly updated based on current medical evidence.';
+---
+
+<html lang={isZh ? 'zh-Hant-TW' : 'en'}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description ?? siteName} />
+    <title>{title} | {siteName}</title>
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap">
+        <a class="brand" href={isZh ? `${base}/` : `${base}/en/`}>{siteName}</a>
+        <a class="lang-switch" href={altHref}>{isZh ? 'English' : '中文'}</a>
+      </div>
+    </header>
+    <main>
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+    <footer class="site">
+      <div class="wrap">{disclaimer}</div>
+    </footer>
+  </body>
+</html>

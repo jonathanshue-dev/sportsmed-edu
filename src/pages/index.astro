@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const topics = await getCollection('topics', (e) => e.id.startsWith('zh-tw/'));
+const base = import.meta.env.BASE_URL;
+
+const categories: { key: string; label: string }[] = [
+  { key: 'lower-limb', label: '下肢' },
+  { key: 'upper-limb', label: '上肢' },
+  { key: 'spine', label: '脊椎' },
+  { key: 'prevention', label: '運動防護' },
+];
+---
+
+<Base
+  title="首頁"
+  description="以最新醫學實證為基礎的運動醫學衛教資訊"
+  lang="zh-tw"
+  altHref={`${base}/en/`}
+>
+  <h1>運動醫學衛教站</h1>
+  <p class="desc">
+    常見運動傷害與疼痛問題的衛教資訊。內容以最新醫學實證為基礎撰寫，並定期透過
+    OpenEvidence 進行證據查核與更新。
+  </p>
+
+  {categories.map((cat) => {
+    const items = topics.filter((t) => t.data.category === cat.key);
+    if (items.length === 0) return null;
+    return (
+      <>
+        <div class="category-label">{cat.label}</div>
+        <div class="topic-grid">
+          {items.map((t) => (
+            <a class="topic-card" href={`${base}/topics/${t.id.replace('zh-tw/', '')}/`}>
+              <strong>{t.data.title}</strong>
+              <p>{t.data.description}</p>
+            </a>
+          ))}
+        </div>
+      </>
+    );
+  })}
+</Base>
