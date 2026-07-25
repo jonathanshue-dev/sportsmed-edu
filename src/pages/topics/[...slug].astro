@@ -28,7 +28,7 @@ const slug = topic.id.replace('zh-tw/', '');
     {topic.data.verification_pending ? (
       <span class="meta pending">初稿・尚未完成證據查核</span>
     ) : (
-      <span class="meta">最後證據查核日期：{topic.data.last_verified}（OpenEvidence）</span>
+      <span class="meta">最後證據查核日期：{topic.data.last_verified}（{topic.data.verified_via}）</span>
     )}
     <Content />
     {topic.data.references.length > 0 && (

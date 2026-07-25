@@ -3,20 +3,25 @@ title: Tendinopathy Rehab — Exercise Progression & Program
 description: Learn why progressive loading exercise is the main treatment for tendinopathy, how the four rehab stages work, how much pain is acceptable, and what a real program looks like.
 category: rehab
 last_verified: "2026-07-25"
-verification_pending: true
+verified_via: "literature review — PubMed/BJSM/JOSPT"
 references:
   - "Alfredson H, Pietilä T, Jonsson P, Lorentzon R. Heavy-load eccentric calf muscle training for the treatment of chronic Achilles tendinosis. American Journal of Sports Medicine, 1998."
   - "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. British Journal of Sports Medicine, 2009."
   - "Beyer R, Kongsgaard M, Hougs Kjær B, Øhlenschlæger T, Kjær M, Magnusson SP. Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial. American Journal of Sports Medicine, 2015."
   - "Rio E, Kidgell D, Purdam C, et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. British Journal of Sports Medicine, 2015."
   - "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J. Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. American Journal of Sports Medicine, 2007."
+  - "Millar NL, Silbernagel KG, Thorborg K, et al. Tendinopathy. Nature Reviews Disease Primers, 2021."
+  - "Clifford C, Challoumas D, Paul L, Syme G, Millar NL. Effectiveness of isometric exercise in the management of tendinopathy: a systematic review and meta-analysis of randomised trials. BMJ Open Sport & Exercise Medicine, 2020."
+  - "Silbernagel KG, Crossley KM. A proposed return-to-sport program for patients with midportion Achilles tendinopathy: rationale and implementation. Journal of Orthopaedic & Sports Physical Therapy, 2015."
+  - "Coombes BK, Bisset L, Vicenzino B. Efficacy and safety of corticosteroid injections and other injections for management of tendinopathy: a systematic review of randomised controlled trials. The Lancet, 2010."
+  - "Pringels L, Capelleman R, Van den Abeele A, et al. Effectiveness of reducing tendon compression in the rehabilitation of insertional Achilles tendinopathy: a randomised clinical trial. British Journal of Sports Medicine, 2025."
 ---
 
 ## What is tendinopathy and why is exercise the treatment?
 
 **Tendinopathy** is pain and structural change in a tendon caused by loading it beyond what it can currently handle. Common sites include the Achilles tendon, the patellar tendon ("jumper's knee"), the elbow ("tennis elbow"), and the rotator cuff in the shoulder.
 
-- It used to be called "tendinitis," but researchers found there is **very little true inflammation** inside the tendon. The problem is mostly failed healing and tissue breakdown — so the modern name is tendinopathy.
+- It used to be called "tendinitis," but the main problem is **not the classic red-hot-swollen kind of inflammation**. It is **failed healing and disorganised tendon tissue** from repeated overload — some inflammatory cells and signalling molecules are involved, but they are not the whole story. Hence the modern name, tendinopathy.
 - Because it is not simply inflammation, **rest and anti-inflammatory pills alone usually don't fix it**.
 - Tendons work like muscles: use it or lose it. **Complete rest actually makes the tendon weaker**, so the pain often comes right back when you return to activity.
 - **Progressive loading** — stressing the tendon in a planned, step-by-step way — has the strongest evidence of any treatment. The exercise itself is the medicine.
@@ -98,7 +103,7 @@ Below is a common framework for **midportion Achilles tendinopathy**. Timeframes
 
 <p class="media-caption">Demo video: eccentric heel-drop exercises for Achilles tendinopathy and when to use them — Treat My Achilles channel (demonstrated by physiotherapists).</p>
 
-- **One caution:** if your pain sits right where the tendon attaches to the heel bone (insertional Achilles tendinopathy), **don't lower your heel below floor level** early on (no dropping off a step edge) — that compresses the sore spot.
+- **One caution:** if your pain sits right where the tendon attaches to the heel bone (insertional Achilles tendinopathy), **don't lower your heel below floor level** early on (no dropping off a step edge) — that compresses the sore spot. Also **skip calf stretching** for now and add a **heel lift** in your shoe: a randomised trial found this compression-reducing approach clearly outperformed full-range heel drops.
 
 ## Common mistakes
 

@@ -3,20 +3,25 @@ title: 肌腱病變的復健運動：階段與課表
 description: 認識肌腱病變為什麼要靠「漸進式負荷運動」來治療，學會四階段復健、疼痛監測原則與實際課表範例。
 category: rehab
 last_verified: "2026-07-25"
-verification_pending: true
+verified_via: "文獻查核 PubMed／BJSM／JOSPT"
 references:
   - "Alfredson H, Pietilä T, Jonsson P, Lorentzon R. Heavy-load eccentric calf muscle training for the treatment of chronic Achilles tendinosis. American Journal of Sports Medicine, 1998."
   - "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. British Journal of Sports Medicine, 2009."
   - "Beyer R, Kongsgaard M, Hougs Kjær B, Øhlenschlæger T, Kjær M, Magnusson SP. Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial. American Journal of Sports Medicine, 2015."
   - "Rio E, Kidgell D, Purdam C, et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. British Journal of Sports Medicine, 2015."
   - "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J. Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. American Journal of Sports Medicine, 2007."
+  - "Millar NL, Silbernagel KG, Thorborg K, et al. Tendinopathy. Nature Reviews Disease Primers, 2021."
+  - "Clifford C, Challoumas D, Paul L, Syme G, Millar NL. Effectiveness of isometric exercise in the management of tendinopathy: a systematic review and meta-analysis of randomised trials. BMJ Open Sport & Exercise Medicine, 2020."
+  - "Silbernagel KG, Crossley KM. A proposed return-to-sport program for patients with midportion Achilles tendinopathy: rationale and implementation. Journal of Orthopaedic & Sports Physical Therapy, 2015."
+  - "Coombes BK, Bisset L, Vicenzino B. Efficacy and safety of corticosteroid injections and other injections for management of tendinopathy: a systematic review of randomised controlled trials. The Lancet, 2010."
+  - "Pringels L, Capelleman R, Van den Abeele A, et al. Effectiveness of reducing tendon compression in the rehabilitation of insertional Achilles tendinopathy: a randomised clinical trial. British Journal of Sports Medicine, 2025."
 ---
 
 ## 這是什麼？
 
 **肌腱病變（tendinopathy）**是肌腱因為「負荷超過它能承受的量」而產生的疼痛與結構變化，常見部位包括阿基里斯腱（跟腱）、髕骨肌腱（跳躍膝）、網球肘、肩旋轉肌腱等。
 
-- 以前常叫「肌腱炎」，但研究發現裡面**幾乎沒有典型的發炎細胞**，主要是肌腱組織退化與修復失衡，所以現在多改稱「肌腱病變」。
+- 以前常叫「肌腱炎」，但研究發現主要問題**不是紅腫熱痛那種典型發炎**，而是肌腱在反覆負荷下**修復失衡、纖維排列變差**（雖然仍有一些發炎細胞與發炎物質參與其中），所以現在多改稱「肌腱病變」。
 - 因為不是單純發炎，**光靠休息和消炎藥通常不會好**。
 - 肌腱和肌肉一樣「用進廢退」：完全休息反而讓肌腱變得更弱、更不耐用，回去運動時更容易再痛。
 - **漸進式負荷（progressive loading）**——也就是有計畫地、循序漸進地給肌腱壓力——才是目前證據最強的治療方式。運動本身就是藥。
@@ -98,7 +103,7 @@ references:
 
 <p class="media-caption">示範影片：阿基里斯腱離心運動（踮腳下降法）與適用時機 — Treat My Achilles 頻道（英文，由物理治療師示範）。</p>
 
-- **小提醒**：若疼痛在「跟骨連接處」（止點型阿基里斯腱病變），初期踮腳下降**不要低於地平面**（不要站在階梯邊緣往下沉），以免壓迫痛點。
+- **小提醒**：若疼痛在「跟骨連接處」（止點型阿基里斯腱病變），初期踮腳下降**不要低於地平面**（不要站在階梯邊緣往下沉），以免壓迫痛點。同時暫時**別拉小腿筋**，並在鞋內加一個**足跟墊**——隨機對照試驗顯示這種「減少壓迫」的做法，效果明顯優於全範圍下沉的練法。
 
 ## 常見錯誤
 

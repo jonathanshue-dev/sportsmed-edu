@@ -28,7 +28,7 @@ const slug = topic.id.replace('en/', '');
     {topic.data.verification_pending ? (
       <span class="meta pending">Draft — evidence verification pending</span>
     ) : (
-      <span class="meta">Evidence last verified: {topic.data.last_verified} (OpenEvidence)</span>
+      <span class="meta">Evidence last verified: {topic.data.last_verified} ({topic.data.verified_via})</span>
     )}
     <Content />
     {topic.data.references.length > 0 && (
