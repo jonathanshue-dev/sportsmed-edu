@@ -25,7 +25,11 @@ const slug = topic.id.replace('zh-tw/', '');
   <article>
     <h1>{topic.data.title}</h1>
     <p class="desc">{topic.data.description}</p>
-    <span class="meta">最後證據查核日期：{topic.data.last_verified}（OpenEvidence）</span>
+    {topic.data.verification_pending ? (
+      <span class="meta pending">初稿・尚未完成證據查核</span>
+    ) : (
+      <span class="meta">最後證據查核日期：{topic.data.last_verified}（OpenEvidence）</span>
+    )}
     <Content />
     {topic.data.references.length > 0 && (
       <div class="references">

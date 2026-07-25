@@ -25,7 +25,11 @@ const slug = topic.id.replace('en/', '');
   <article>
     <h1>{topic.data.title}</h1>
     <p class="desc">{topic.data.description}</p>
-    <span class="meta">Evidence last verified: {topic.data.last_verified} (OpenEvidence)</span>
+    {topic.data.verification_pending ? (
+      <span class="meta pending">Draft — evidence verification pending</span>
+    ) : (
+      <span class="meta">Evidence last verified: {topic.data.last_verified} (OpenEvidence)</span>
+    )}
     <Content />
     {topic.data.references.length > 0 && (
       <div class="references">

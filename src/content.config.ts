@@ -8,6 +8,8 @@ const topics = defineCollection({
     description: z.string(),
     category: z.enum(['lower-limb', 'upper-limb', 'spine', 'prevention', 'rehab']),
     last_verified: z.string(),
+    /** true 表示內容尚未通過 OpenEvidence 查核，頁面會顯示未查核標示 */
+    verification_pending: z.boolean().default(false),
     references: z.array(z.string()).default([]),
   }),
 });

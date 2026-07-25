@@ -3,6 +3,7 @@ title: 肌腱病變的復健運動：階段與課表
 description: 認識肌腱病變為什麼要靠「漸進式負荷運動」來治療，學會四階段復健、疼痛監測原則與實際課表範例。
 category: rehab
 last_verified: "2026-07-25"
+verification_pending: true
 references:
   - "Alfredson H, Pietilä T, Jonsson P, Lorentzon R. Heavy-load eccentric calf muscle training for the treatment of chronic Achilles tendinosis. American Journal of Sports Medicine, 1998."
   - "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. British Journal of Sports Medicine, 2009."

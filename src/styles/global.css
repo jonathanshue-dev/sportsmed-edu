@@ -99,6 +99,11 @@ a { color: var(--accent); }
   margin: 0.5rem 0 1rem;
 }
 
+.meta.pending {
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-border);
+}
+
 .topic-grid {
   display: grid;
   gap: 0.9rem;
