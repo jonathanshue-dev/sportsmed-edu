@@ -10,8 +10,11 @@
 
 ## 流程
 
-1. **前置檢查**
-   - `oe_health`：`healthy: true` 且 `extension_connected: true` 才繼續；否則中止並回報使用者「OpenEvidence relay 未連線，本次驗證跳過」。
+1. **前置檢查**（`oe_health` 不足以判斷可用性）
+   - 先 `oe_health`：`healthy: true` 且 `extension_connected: true`。
+   - **再用 `oe_auth_status` 做真正的存活探測**。`oe_health` 的 `connected` 只代表 relay 那頭的 socket 還半開，Edge 一旦把 extension 的 MV3 service worker 休眠（`edge://extensions` 顯示 `service worker (Inactive)`），請求會被送進去但沒人讀，表現為 90 秒逾時。
+   - 若 `oe_auth_status` 逾時 → 中止，回報使用者：「OpenEvidence extension 的 service worker 已休眠，請到 `edge://extensions` 點該 extension 的 `service worker` 連結喚醒（開著 DevTools 可避免再休眠），或關閉 Edge 的效率模式並將 openevidence.com 加入永不休眠。」
+   - 診斷用 log：`~/.openevidence-mcp/relay-8787.log`（只有 `delivered ...` 而無後續回應 = service worker 沒在讀）。
 2. **掃描文章**
    - 讀取 `src/content/topics/zh-tw/*.md` 的 frontmatter。
    - 挑出 `last_verified` 距今超過 **90 天** 的主題（首次全跑）。
