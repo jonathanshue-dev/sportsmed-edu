@@ -3,7 +3,7 @@ title: 肌腱病變的復健運動：階段與課表
 description: 認識肌腱病變為什麼要靠「漸進式負荷運動」來治療，學會四階段復健、疼痛監測原則與實際課表範例。
 category: rehab
 last_verified: "2026-07-25"
-verified_via: "文獻查核 PubMed／BJSM／JOSPT"
+verified_via: "OpenEvidence"
 references:
   - "Alfredson H, Pietilä T, Jonsson P, Lorentzon R. Heavy-load eccentric calf muscle training for the treatment of chronic Achilles tendinosis. American Journal of Sports Medicine, 1998."
   - "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. British Journal of Sports Medicine, 2009."
@@ -15,6 +15,11 @@ references:
   - "Silbernagel KG, Crossley KM. A proposed return-to-sport program for patients with midportion Achilles tendinopathy: rationale and implementation. Journal of Orthopaedic & Sports Physical Therapy, 2015."
   - "Coombes BK, Bisset L, Vicenzino B. Efficacy and safety of corticosteroid injections and other injections for management of tendinopathy: a systematic review of randomised controlled trials. The Lancet, 2010."
   - "Pringels L, Capelleman R, Van den Abeele A, et al. Effectiveness of reducing tendon compression in the rehabilitation of insertional Achilles tendinopathy: a randomised clinical trial. British Journal of Sports Medicine, 2025."
+  - "Johannsen F, Olesen JL, Øhlenschläger TF, et al. Effect of ultrasonography-guided corticosteroid injection vs placebo added to exercise therapy for Achilles tendinopathy: a randomized clinical trial. JAMA Network Open, 2022."
+  - "Soliman EFF, Nagra D, Goh SL, et al. Isometric exercises for tendinopathies: a systematic literature review. Clinical Therapeutics, 2026."
+  - "Kakavas G, Forelli F, Korakakis V, Malliaropoulos N, Maffulli N. Neuroplastic periodization in tendinopathy. British Medical Bulletin, 2025."
+  - "Martin RL, Chimenti R, Cuddeford T, et al. Achilles pain, stiffness, and muscle power deficits: midportion Achilles tendinopathy revision 2018. Journal of Orthopaedic & Sports Physical Therapy, 2018."
+  - "Lopes AD, Rizzo RRN, Hespanhol L, Costa LOP, Kamper SJ. Exercise for patellar tendinopathy. Cochrane Database of Systematic Reviews, 2025."
 ---
 
 ## 這是什麼？
@@ -29,6 +34,8 @@ references:
 ## 復健四階段
 
 肌腱復健像爬樓梯，一階一階往上。**升階的依據是「症狀和力量」，不是月曆上的週數。**
+
+（說明：四階段是目前臨床上通用的架構，各階段的訓練方式都有證據支持，但「一定要照這個順序分階」本身還沒有直接的隨機試驗驗證。）
 
 <svg class="stages-svg" viewBox="0 0 720 250" role="img" aria-label="肌腱復健四階段：等長收縮、慢速肌力、儲能跳躍、回到運動，像階梯逐步往上">
   <g font-family="inherit" font-size="15" fill="var(--fg)">
@@ -129,18 +136,21 @@ references:
 **Q：我需要完全停止訓練嗎？**
 - 通常不用。多數情況可以「調整負荷」而不是「歸零」：減少跳躍與衝刺量、保留不痛範圍內的訓練。
 - 研究顯示，在疼痛監測原則下**邊練邊復健**，成效不輸完全停練，賽季中的運動員尤其適用。
+- 但競技等級的選手要注意：研究發現在原本的高訓練量之上「只是加上肌力訓練」並沒有效果，**必須真的把訓練量降下來**。
 
 **Q：帶著疼痛運動安全嗎？**
 - 在 0–10 分中 **3–5 分以內、且 24 小時內恢復**的疼痛是可接受的，不代表在傷害肌腱。
 - 重點是趨勢：一週比一週痛才是警訊。
 
 **Q：為什麼不直接打針就好？**
-- 類固醇注射短期可能減痛，但**長期效果差，甚至可能讓肌腱更脆弱**。
-- 注射（含增生療法等）最多是輔助，**不能取代負荷訓練**。
+- 類固醇注射短期（約 4–8 週）確實能止痛，但**單獨使用時中長期效果較差**，反覆注射還可能讓組織變脆弱。網球肘的研究甚至顯示一年後的成效不如物理治療、也不如什麼都不做。
+- 不過近年出現重要例外：一項阿基里斯腱的隨機試驗發現，**超音波導引類固醇注射＋運動治療＋嚴格限制活動（三個月不跑不跳）**，效果在 1–6 個月優於安慰劑，且維持到 1–2 年。
+- 關鍵差別在於**打針的同時真的減量**，而不是打了針照常練。所以注射的定位是輔助：幫你度過痛到無法訓練的階段，**不能取代負荷訓練**。
 
 **Q：多久會好？**
-- 大多數人需要 **3–6 個月以上**的規律訓練；拖比較久的病例可能需要一年。
+- 標準的運動治療課表多為 **12 週**，多數人在這段期間就會明顯進步，且改善可維持到一年後。整體恢復到能完全回場，常需 **3–6 個月以上**；拖比較久的病例可能需要一年。
 - 進步不是直線，偶爾小退步很正常，看整體趨勢就好。
+- 一個常見的困惑：**超音波上的肌腱增厚或血流增加，可能在症狀好轉後仍然存在**。這不代表沒好 — 判斷依據是疼痛與功能，不必因為影像還有變化而焦慮。
 
 **Q：一定要做離心運動嗎？**
 - 不一定。離心運動（如 Alfredson 踮腳下降法）證據很多，但**慢速重量訓練（HSR）效果相當**，而且許多人覺得比較不痛、比較做得下去。
