@@ -6,7 +6,7 @@ const topics = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
-    category: z.enum(['lower-limb', 'upper-limb', 'spine', 'prevention']),
+    category: z.enum(['lower-limb', 'upper-limb', 'spine', 'prevention', 'rehab']),
     last_verified: z.string(),
     references: z.array(z.string()).default([]),
   }),
