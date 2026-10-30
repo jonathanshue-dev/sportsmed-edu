@@ -2,9 +2,9 @@
 title: Understanding the Athlete's ECG
 description: An athlete's ECG often "looks abnormal" when it is really showing normal training changes. Learn which findings are part of the athlete's heart, which need further tests, and what to do if you are told your ECG is abnormal.
 category: prevention
-last_verified: "2026-10-29"
-verification_pending: true
-verified_via: "Literature review (OpenEvidence check pending)"
+last_verified: "2026-10-30"
+verification_pending: false
+verified_via: "OpenEvidence"
 references:
   - "Drezner JA, Sharma S, Baggish A, et al. International criteria for electrocardiographic interpretation in athletes: Consensus statement. British Journal of Sports Medicine, 2017;51:704–731. doi:10.1136/bjsports-2016-097331"
   - "Sharma S, Drezner JA, Baggish A, et al. International Recommendations for Electrocardiographic Interpretation in Athletes. Journal of the American College of Cardiology, 2017;69(8):1057–1075. doi:10.1016/j.jacc.2017.01.015"
@@ -82,13 +82,13 @@ Don't panic. An ECG is a screening test, not a diagnosis. Most athletes flagged 
 **Common next steps:**
 
 - **Echocardiogram**: an ultrasound of the heart's structure, wall thickness and valves. Usually the first step.
-- **Cardiac MRI**: when the ECG warning sign is clear (e.g. lateral T-wave inversion) but the echo looks normal, MRI is more sensitive for early cardiomyopathy. (Evidence level: international expert consensus)
+- **Cardiac MRI**: for a clear warning sign such as lateral T-wave inversion, MRI is usually done **alongside** the echo, not only after it. It is more sensitive for early cardiomyopathy, so a normal echo does not rule it out. (Evidence level: international expert consensus)
 - **Exercise ECG** and **24–48 hour ECG monitoring** (Holter): to look at heart rhythm during exercise and daily life.
 - **Family screening**: if an inherited heart condition is suspected, first-degree relatives may need testing too.
 
 **Long-term follow-up:**
 
-An Italian follow-up study found that among athletes with marked repolarization changes on the ECG but no heart disease found at the time, a few developed cardiomyopathy over an average of 9 years, while none of the athletes with normal ECGs did. So even when initial tests are normal, these athletes should have **regular follow-up** rather than a one-time all-clear. (Evidence level: observational study)
+An Italian follow-up study found that among athletes with marked repolarization changes on the ECG but no heart disease found at the time, a few developed cardiomyopathy over an average of 9 years, while none of the athletes with normal ECGs did. So even when initial tests are normal, these athletes should have **regular follow-up** rather than a one-time all-clear. Experts typically suggest **a yearly echocardiogram and a cardiac MRI every 2–4 years**. (Evidence level: observational study)
 
 **Can I keep playing?**
 

@@ -69,3 +69,9 @@
 ## frontmatter
 
 因有建議修改，**未**將 `verification_pending` 改為 `false`，`last_verified` 亦不變；待使用者核准、zh/en 同步修改後再更新。
+
+## 使用者決定（2026-10-30）
+
+- **採納修改 1**：zh-tw／en 同步改寫心臟 MRI 那一點，並在〈長期追蹤〉補上「每年心臟超音波＋每 2–4 年心臟 MRI」。
+- **未採納**：修改 2（評估期間暫停比賽）、修改 3（新增 references）。
+- frontmatter：`verification_pending: false`、`last_verified: "2026-10-30"`、`verified_via: "OpenEvidence"`（兩版皆同）。
