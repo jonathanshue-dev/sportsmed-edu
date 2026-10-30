@@ -12,6 +12,7 @@ references:
   - "Pelliccia A, Di Paolo FM, Quattrini FM, et al. Outcomes in athletes with marked ECG repolarization abnormalities. New England Journal of Medicine, 2008;358(2):152–161. doi:10.1056/NEJMoa060781 (PMID: 18184960)"
   - "Corrado D, Basso C, Pavei A, et al. Trends in sudden cardiovascular death in young competitive athletes after implementation of a preparticipation screening program. JAMA, 2006;296(13):1593–1601. doi:10.1001/jama.296.13.1593"
   - "Kim JH, Baggish AL, Levine BD, et al. Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities: A Scientific Statement From the American Heart Association and American College of Cardiology. Circulation, 2025;151(11):e716–e761. doi:10.1161/CIR.0000000000001297 (PMID: 39973614)"
+  - "Finocchiaro G, et al. Abnormal electrocardiogram findings in athletes: A consensus statement of the European Association of Preventive Cardiology of the European Society of Cardiology. European Heart Journal, 2026;47(2):152–169. doi:10.1093/eurheartj/ehaf646 (PMID: 40996312)"
 ---
 
 ## 重點摘要
@@ -81,14 +82,14 @@ references:
 
 **常見的後續檢查：**
 
-- **心臟超音波**（echocardiography）：看心臟結構、心肌厚度、瓣膜。通常是第一步。
+- **心臟超音波**（echocardiography）：看心臟結構、心肌厚度、瓣膜。通常會先安排。
 - **心臟磁振造影**（cardiac MRI）：當出現側壁 T 波倒置這類明確警訊時，通常會和心臟超音波**一起安排**，因為磁振造影對早期心肌病更敏感，超音波正常不代表可以省略。（證據等級：國際專家共識）
 - **運動心電圖**、**24–48 小時心電圖監測**（Holter）：看運動中與日常生活中的心律變化。
 - **家族成員篩檢**：若懷疑遺傳性心臟病，一等親可能也需要檢查。
 
 **關於長期追蹤：**
 
-義大利一項追蹤研究發現，心電圖有明顯再極化異常、但當下檢查找不到心臟病的運動員，經過平均 9 年追蹤，有少數人後來才出現心肌病；而心電圖正常的對照組則沒有人發生。所以這類運動員即使當下沒找到病因，也建議**定期追蹤**，而不是「查完正常就結束」。專家建議通常是**每年做心臟超音波，每 2–4 年做一次心臟磁振造影**。（證據等級：觀察性研究）
+義大利一項追蹤研究發現，心電圖有明顯再極化異常、但當下檢查找不到心臟病的運動員，經過平均 9 年追蹤，有少數人後來才出現心肌病；而心電圖正常的對照組則沒有人發生。所以這類運動員即使當下沒找到病因，也建議**定期追蹤**，而不是「查完正常就結束」。（證據等級：觀察性研究）專家建議通常是**每年做心臟超音波，每 2–4 年做一次心臟磁振造影**。（證據等級：專家共識）
 
 **關於能不能繼續運動：**
 
