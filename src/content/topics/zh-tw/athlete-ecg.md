@@ -1,0 +1,135 @@
+---
+title: 運動員心電圖怎麼看
+description: 運動員的心電圖常常「看起來不正常」，其實多半是訓練造成的正常變化。認識哪些是運動員心臟的正常表現、哪些需要進一步檢查，以及被說心電圖異常時該怎麼辦。
+category: prevention
+last_verified: "2026-10-30"
+verification_pending: false
+verified_via: "OpenEvidence"
+references:
+  - "Drezner JA, Sharma S, Baggish A, et al. International criteria for electrocardiographic interpretation in athletes: Consensus statement. British Journal of Sports Medicine, 2017;51:704–731. doi:10.1136/bjsports-2016-097331"
+  - "Sharma S, Drezner JA, Baggish A, et al. International Recommendations for Electrocardiographic Interpretation in Athletes. Journal of the American College of Cardiology, 2017;69(8):1057–1075. doi:10.1016/j.jacc.2017.01.015"
+  - "Pelliccia A, Sharma S, Gati S, et al. 2020 ESC Guidelines on sports cardiology and exercise in patients with cardiovascular disease. European Heart Journal, 2021;42(1):17–96. doi:10.1093/eurheartj/ehaa605 (PMID: 32860412)"
+  - "Pelliccia A, Di Paolo FM, Quattrini FM, et al. Outcomes in athletes with marked ECG repolarization abnormalities. New England Journal of Medicine, 2008;358(2):152–161. doi:10.1056/NEJMoa060781 (PMID: 18184960)"
+  - "Corrado D, Basso C, Pavei A, et al. Trends in sudden cardiovascular death in young competitive athletes after implementation of a preparticipation screening program. JAMA, 2006;296(13):1593–1601. doi:10.1001/jama.296.13.1593"
+  - "Kim JH, Baggish AL, Levine BD, et al. Clinical Considerations for Competitive Sports Participation for Athletes With Cardiovascular Abnormalities: A Scientific Statement From the American Heart Association and American College of Cardiology. Circulation, 2025;151(11):e716–e761. doi:10.1161/CIR.0000000000001297 (PMID: 39973614)"
+  - "Finocchiaro G, et al. Abnormal electrocardiogram findings in athletes: A consensus statement of the European Association of Preventive Cardiology of the European Society of Cardiology. European Heart Journal, 2026;47(2):152–169. doi:10.1093/eurheartj/ehaf646 (PMID: 40996312)"
+---
+
+## 重點摘要
+
+- 長期規律訓練會讓心臟變大、變強、跳得比較慢，這叫「**運動員心臟**」（athlete's heart），心電圖也會跟著改變。
+- 很多在一般人身上會被標成「異常」的心電圖變化，在運動員身上其實是**正常的訓練適應**，不需要停練。
+- 少數變化則是**警訊**，可能代表隱藏的心臟病（例如肥厚型心肌病），需要進一步檢查。
+- 國際上有一套專門判讀運動員心電圖的標準（**2017 國際運動員心電圖判讀標準**），可以大幅減少「沒病被當有病」的情況。（證據等級：國際專家共識）
+- 心電圖正常也不代表百分之百沒問題：**運動中胸痛、昏倒、心悸**等症狀，永遠比心電圖更重要。
+
+## 這是什麼？
+
+心電圖（electrocardiogram，ECG）是在胸口和手腳貼上電極，記錄心臟每一次跳動時的電氣訊號。檢查只要幾分鐘、不會痛，是運動員賽前體檢中常見的項目。
+
+運動員做心電圖，主要目的是找出少數**平常沒有症狀、但激烈運動時可能引發猝死**的心臟問題，例如：
+
+- **肥厚型心肌病**（hypertrophic cardiomyopathy）：心肌異常增厚
+- **致心律不整性心肌病**（arrhythmogenic cardiomyopathy）：心肌逐漸被脂肪和纖維組織取代
+- **離子通道疾病**（channelopathies）：例如長 QT 症候群、布魯格達症候群（Brugada syndrome）
+- **預激症候群**（Wolff-Parkinson-White，WPW）：心臟多了一條不正常的電路
+
+麻煩的是，**訓練本身也會改變心電圖**。如果用一般人的標準去看運動員，很多健康的選手會被誤判成心臟病，被要求停賽、做一堆檢查。這就是為什麼需要「運動員專用」的判讀標準。
+
+## 運動員心臟：哪些是正常的訓練變化？
+
+以下變化在規律訓練的運動員身上很常見，尤其是耐力型運動（長跑、自行車、划船、越野滑雪、游泳），而且**單獨出現、沒有症狀、沒有家族史時，不需要進一步檢查**：
+
+- **心跳慢（竇性心搏過緩，sinus bradycardia）**：安靜心跳 40 多下、甚至 30 多下都可能是正常的，代表心臟每次打出去的血比較多。
+- **心跳快慢不一（竇性心律不整，sinus arrhythmia）**：吸氣時心跳變快、吐氣時變慢，是正常的呼吸反射。
+- **電壓變高**：心電圖的波形特別高，在一般人可能被懷疑「心臟肥大」，但在運動員多半只是心肌因訓練而變強壯。
+- **早期再極化（early repolarization）**：心電圖某段輕微上抬，在年輕、男性、黑人運動員特別常見。
+- **不完全右束支傳導阻滯（incomplete right bundle branch block）**：右側心臟電流傳導稍微變慢的波形。
+- **第一度房室傳導阻滯、第二度第一型房室傳導阻滯（Mobitz I / Wenckebach）**：心房到心室的訊號傳得比較慢、偶爾漏一拍，在訓練有素的運動員身上常見，通常運動時就消失。
+- **16 歲以下青少年**的前胸導程（V1–V3）T 波倒置。
+- **黑人運動員**特有的前胸導程（V1–V4）ST 段上抬合併 T 波倒置。
+
+這些變化的共同點是：反映的是心臟對訓練的**良性適應**，通常在減少訓練後會部分恢復。
+
+### 「邊緣」變化
+
+有幾種變化被歸為「邊緣」：例如電軸偏移、心房擴大的波形、完全右束支傳導阻滯。
+
+- **只出現一項**：在沒有症狀、沒有家族史的運動員，通常不需要進一步檢查。
+- **同時出現兩項以上**：建議進一步評估。
+
+## 哪些心電圖變化需要進一步檢查？
+
+以下變化**不是**訓練造成的，不論運動員有沒有症狀，都建議由熟悉運動心臟學的醫師進一步評估：
+
+- **T 波倒置**出現在側壁或下壁導程（例如 V5–V6、II、aVF）：這是最需要注意的警訊之一，可能是肥厚型心肌病的早期表現。
+- **ST 段下降**
+- **病理性 Q 波**
+- **完全左束支傳導阻滯**，或心室傳導明顯變慢（QRS 寬度 ≥ 140 毫秒）
+- **預激波形**（WPW）
+- **QT 間期延長**（校正後 QT，男性 ≥ 470 毫秒、女性 ≥ 480 毫秒）
+- **布魯格達第一型波形**
+- **極度心跳過慢**（每分鐘小於 30 下），或 PR 間期 ≥ 400 毫秒
+- **第二度第二型、第三度房室傳導阻滯**
+- **頻繁的心室早期收縮**（一張 10 秒的心電圖上出現 2 次以上）
+- **心房或心室的快速心律不整**
+
+（以上分類依據：2017 國際運動員心電圖判讀標準，國際專家共識）
+
+## 被說「心電圖異常」怎麼辦？
+
+先別慌。心電圖只是「篩檢」，不是「診斷」。多數被標示異常的運動員，後續檢查都是正常的。
+
+**常見的後續檢查：**
+
+- **心臟超音波**（echocardiography）：看心臟結構、心肌厚度、瓣膜。通常會先安排。
+- **心臟磁振造影**（cardiac MRI）：當出現側壁 T 波倒置這類明確警訊時，通常會和心臟超音波**一起安排**，因為磁振造影對早期心肌病更敏感，超音波正常不代表可以省略。（證據等級：國際專家共識）
+- **運動心電圖**、**24–48 小時心電圖監測**（Holter）：看運動中與日常生活中的心律變化。
+- **家族成員篩檢**：若懷疑遺傳性心臟病，一等親可能也需要檢查。
+
+**關於長期追蹤：**
+
+義大利一項追蹤研究發現，心電圖有明顯再極化異常、但當下檢查找不到心臟病的運動員，經過平均 9 年追蹤，有少數人後來才出現心肌病；而心電圖正常的對照組則沒有人發生。所以這類運動員即使當下沒找到病因，也建議**定期追蹤**，而不是「查完正常就結束」。（證據等級：觀察性研究）專家建議通常是**每年做心臟超音波，每 2–4 年做一次心臟磁振造影**。（證據等級：專家共識）
+
+**關於能不能繼續運動：**
+
+- 「心電圖異常」不等於「禁止運動」。
+- 2025 年美國心臟學會與美國心臟學院（AHA/ACC）的最新建議，強調由醫師與運動員**共同決策**（shared decision-making）：充分了解風險後，一起決定是否、以及如何繼續比賽，而不是一律禁賽。
+
+## 何時該就醫（警訊）
+
+> **出現以下任何一項，請暫停激烈運動並盡快就醫：**
+>
+> - 運動中或運動後**胸痛、胸悶**
+> - 運動中**昏倒**或差點昏倒
+> - 運動時**心跳突然狂跳、亂跳**，休息後仍不緩解
+> - 喘的程度和運動量**明顯不成比例**
+> - 家族中有人在 **50 歲以前不明原因猝死**，或有遺傳性心臟病
+> - 心電圖報告被標示需要進一步檢查，但還沒完成後續評估
+
+## 自我照護與運動建議
+
+- **誠實填寫病史與家族史**：家族猝死史是找出遺傳性心臟病最重要的線索之一。
+- **拿到報告時，告訴醫師你是運動員**：說明運動種類、每週訓練量，有助於醫師用正確的標準判讀。
+- **找熟悉運動員心電圖的醫師判讀**：一般判讀標準容易把正常的訓練變化誤判為異常。
+- **保留舊的心電圖**：前後比較，比單看一張更有參考價值。
+- **使用興奮劑或某些藥物、補充品**可能影響心律，就醫時請一併告知。
+- **場邊準備 AED**：沒有任何篩檢能百分之百預防猝死，訓練與比賽場地應有 CPR 訓練與自動體外去顫器（AED）。
+
+## 常見問題
+
+**Q：我安靜心跳只有 45 下，是不是心臟有問題？**
+
+對規律訓練的運動員來說，安靜心跳 40 多下很常見，代表心肺功能好。只要沒有頭暈、昏倒、運動能力突然下降等症狀，通常不需要擔心。若心跳低於每分鐘 30 下，或伴隨症狀，就需要就醫。
+
+**Q：一般人運動前也需要做心電圖嗎？**
+
+不一定。一般民眾開始運動前，先做簡單的問卷篩檢就夠了，請參考本站〈運動前健康篩檢〉。心電圖主要用在競技運動員的賽前體檢，或醫師評估後認為需要的人。
+
+**Q：每個運動員都應該做心電圖嗎？**
+
+各國做法不同。歐洲（如義大利）長期把心電圖列為運動員體檢的標準項目，義大利實施後，年輕運動員的心因性猝死明顯下降（觀察性研究）。美國 2025 年的建議則認為「加做心電圖是合理的」，前提是要有受過訓練的判讀醫師，以及可近的後續檢查資源。
+
+**Q：心電圖正常，就代表我心臟完全沒問題嗎？**
+
+不是。心電圖抓不到所有會造成猝死的問題，例如冠狀動脈起源異常。所以就算心電圖正常，運動中出現胸痛、昏倒等症狀，仍然要立刻就醫。
